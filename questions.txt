@@ -1,0 +1,186 @@
+This file is not encrypted.
+ 20
+Who is the current president of the Republic of the Philippines?
+Benigno Simeon Aquino III
+ 0 
+True
+True
+False
+ 5
+What planet is closest to the Sun?
+Mercury
+ 0 
+True
+True
+False
+ 5
+What component of plants produce food?
+Chlorophyll
+ 0 
+False
+False
+False
+ 5
+What are the colors of the rainbow?
+New answer
+ 7 
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
+False
+True
+True
+ 1
+What compound is produced when two Hydrogen molecules and an Oxygen molecule is combined?
+Water
+ 4 
+Hydrochloric acid
+Oxalic acid
+Sodium Sulfide
+Ascorbic acid
+True
+True
+False
+ 2
+Earth is the third planet from the Sun.
+True
+ 0 
+True
+True
+False
+ 3
+The Sun is a star.
+True
+ 0 
+True
+True
+False
+ 3
+What is another name for precipitation?
+rainfall
+ 4 
+fire
+flood
+soil erosion
+tsunami
+True
+True
+False
+ 2
+What are the two electric currents?
+New answer
+ 2 
+Positive
+Negative
+False
+True
+False
+ 1
+What are the five senses of the human body?
+New answer
+ 5 
+sight
+hearing
+touch
+smell
+taste
+False
+True
+False
+ 1
+What is the capital of Japan?
+Tokyo
+ 4 
+Beijing
+Pyongyang
+Gangnam
+Seoul
+True
+True
+False
+ 2
+Who is the author of "Florante at Laura"?
+Francisco Balagtas
+ 0 
+True
+True
+False
+ 5
+What are the two books written by Jose Rizal?
+New answer
+ 2 
+El Filibusterismo
+Noli Me Tangere
+False
+False
+False
+ 1
+Who discovered the Philippines?
+Ferdinand Magellan
+ 0 
+False
+True
+False
+ 5
+The province of Bulacan is under what region?
+Region III
+ 4 
+Region IV
+Region IV-A
+Region II
+Region V
+True
+True
+False
+ 2
+What does NCR stand for?
+National Capital Region
+ 4 
+New Commercial Region
+National Community Resources
+Newer Central Restoration
+National Consumer Report
+True
+True
+True
+ 2
+When is Labor Day observed in the Philippines?
+May 1
+ 0 
+False
+True
+False
+ 5
+What is the name of the beloved pet dog of Dr. Jose Rizal?
+Usman
+ 4 
+Batik
+Askal
+Gilas
+Douglas
+True
+True
+False
+ 2
+Where are the Chocolate Hills located?
+Bohol
+ 4 
+Capiz
+Batangas
+Dumaguete
+Siquijor
+True
+True
+False
+ 2
+Describe BAMPS in detail.
+New answer
+ 0 
+False
+True
+False
+ 4
